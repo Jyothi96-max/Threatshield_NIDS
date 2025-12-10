@@ -1,0 +1,6 @@
+time,src_ip,dst_ip,proto,size,score,type
+21:28:55,10.137.121.227,52.182.143.209,TCP,491,-0.056,Suspicious Traffic
+21:28:58,10.137.121.227,10.137.121.41,UDP,76,-0.063,Suspicious Traffic
+21:29:01,10.137.121.227,10.137.121.41,UDP,76,-0.055,Suspicious Traffic
+21:29:02,52.182.143.209,10.137.121.227,TCP,1414,-0.052,Suspicious Traffic
+21:29:05,52.182.143.209,10.137.121.227,TCP,1414,-0.052,Suspicious Traffic
