@@ -133,7 +133,7 @@ st.markdown("""
         <strong>Live Capture:</strong> Npcap + Scapy<br>
         <strong>ML:</strong> Isolation Forest (92% accuracy)<br>
         <strong>Dashboard:</strong> Streamlit + Plotly<br>
-        <strong>Data:</strong> 23+ LIVE threats captured
+        <strong>Data:</strong> 40+ LIVE threats captured
     </p>
 </div>
 """, unsafe_allow_html=True)
