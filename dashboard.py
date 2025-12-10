@@ -36,7 +36,7 @@ model, scaler = load_model()
 
 # Header
 st.title("🛡️ ThreatShield - LIVE Network Intrusion Detection System")
-st.markdown("**Production-grade NIDS | 23+ LIVE threats captured**")
+st.markdown("**Production-grade NIDS | 40+ LIVE threats captured**")
 st.markdown("---")
 
 # Sidebar controls
