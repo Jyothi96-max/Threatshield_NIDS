@@ -128,7 +128,7 @@ if analyze and model:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666;'>
-    <h4>🏆 Production Portfolio Project</h4>
+    <h4>🏆 ThreatShield-NTDS</h4>
     <p>
         <strong>Live Capture:</strong> Npcap + Scapy<br>
         <strong>ML:</strong> Isolation Forest (92% accuracy)<br>
